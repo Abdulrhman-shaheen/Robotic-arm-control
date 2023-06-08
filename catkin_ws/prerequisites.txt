@@ -1,0 +1,11 @@
+Ros Packages:
+	rosserial_arduino 
+	https://github.com/ros-drivers/rosserial
+
+Arduino:
+	Rosserial
+	Ctrl+Shift+I in Arduino IDE and search rosserial
+
+Python:
+	getch
+	pip install getch 
